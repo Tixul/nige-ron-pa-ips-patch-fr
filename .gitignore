@@ -1,0 +1,4 @@
+out/
+*.ngc
+*.ngp
+__pycache__/

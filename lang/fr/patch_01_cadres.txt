@@ -1,0 +1,11 @@
+# Menu principal (OPTION) : cadre 0x30984 élargi de 6 à 8 cases utiles (texte @100000).
+%030985	86	88
+%030989	E6	E8
+%03098D	86	88
+%030991	E6	E8
+%030995	E6	E8
+%030999	E6	E8
+%03099D	E6	E8
+%0309A1	E6	E8
+%0309A5	E6	E8
+%0309A9	86	88

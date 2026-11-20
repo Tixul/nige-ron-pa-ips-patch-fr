@@ -1,0 +1,31 @@
+# Menus de la base (Momo), du recrutement, de la banque : mise en page MANUELLE, longueurs proches de l'anglais.
+# À vérifier à l'écran (cadres de largeur fixe ?).
+@1014C4	AMIS/BÂTIR/FIN
+@101503	AMIS
+@10150A	RECR./EMB./VIRE
+@101518	CONFIER/PRENDRE/LISTE
+@10159C	AMIS
+# « PAR » + « TY xxx » = titre collé en deux morceaux par le jeu (PARTY SPLIT…) -> ÉQU + IPE -/+/X
+@1015A9	AMIS
+@101691	{E1}: CONFIER
+@1016DC	{E1}: PRENDRE
+@101716	{E1}: RENVOI
+@10176A	BÂTIR
+@1018F3	RÉSEAU
+@101930	CHAMBRE
+@101975	COCKPIT
+@10197D	CARTE
+@1019A4	TRACT
+@101CF8	DEN
+@101E0B	DÉLIVRER
+@101E11	RENDRE
+# Caractéristiques en colonnes (japonais : こんじょう せいぎ きょうちょう みりょく ぶつよく) : CRAN JUSTE COOP GRÂCE AVIDE
+@1012C4	C J C G A/R U O R V/A S O Â I/N T P C D/  E   E E
+# Fiche de sauvegarde
+@10130B	 DONNÉES/    {D2}///   NV/ÉQUIPE/      F/ARGENT/      {E0}
+# Tableau des points de travail (colonnes de 6)
+@101EA1	LIVR. RECH. RÉPR. ESCOR ENDUR SAGES MALIC SAINT SAUV
+@101306	SAUV
+@1017FE	 :/NIV.
+@101807	 OU +
+@1022EA	POURQUOI CE CHIEN EST EN COLÈRE ? TU SAIS POURQUOI, MOMO ?

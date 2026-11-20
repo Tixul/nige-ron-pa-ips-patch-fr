@@ -1,0 +1,3 @@
+# Menus du bloc de texte (mise en page FIXE : garder les « / » et les espaces de tête de l'anglais).
+# Menu principal (OPTION) : 4 caractères par entrée.
+@100000	  {D2}// OBJETS/ MAGIE/ ÉQUIPER/ ÉTAT/ MÉTIER/ SAUVER
